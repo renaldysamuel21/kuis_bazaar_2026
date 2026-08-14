@@ -28,8 +28,8 @@
   --cream: #fff9ec;
   --yellow: #f6d774;
   --mint: #a8dfcf;
-  --green: #4cae88;
-  --green-soft: #dff5ea;
+  --green: #71b84a;
+  --green-soft: #e8f7c9;
   --red: #d76976;
   --red-soft: #f9dfe3;
   --purple: #c79270;
@@ -276,7 +276,7 @@ button:focus-visible {
 }
 
 .game-choice--character .game-choice__icon { color: #a85c29; background: #f8d3ad; }
-.game-choice--truefalse .game-choice__icon { color: #397f68; background: #cbeadd; }
+.game-choice--truefalse .game-choice__icon { color: #4e842f; background: #dff2bb; }
 .game-choice strong { display: block; font-size: clamp(1.05rem, 4vw, 1.28rem); line-height: 1.2; }
 .game-choice small { display: block; margin-top: 4px; color: var(--ink-soft); font-size: 0.86rem; }
 .game-choice__arrow { color: #a77b5d; }
@@ -388,7 +388,7 @@ button:focus-visible {
 }
 
 .game-screen--correct {
-  background: linear-gradient(165deg, #d9f2e8 0%, #bfe5d6 100%);
+  background: linear-gradient(165deg, #e6f7c5 0%, #c5e991 100%);
 }
 
 .game-screen--wrong {
@@ -440,7 +440,7 @@ button:focus-visible {
   transition: background 220ms ease, border-color 220ms ease;
 }
 
-.game-screen--correct .question-stage { border-color: #83c9af; background: #e8f7f0; }
+.game-screen--correct .question-stage { border-color: #9ed266; background: #f1fadf; }
 .game-screen--wrong .question-stage { border-color: #df8e9b; background: #fcecef; }
 
 .question-meta {
@@ -457,7 +457,7 @@ button:focus-visible {
 }
 
 .difficulty { padding: 6px 10px; border-radius: 999px; letter-spacing: 0.03em; }
-.difficulty--mudah { color: #39755f; background: #d9f0e7; }
+.difficulty--mudah { color: #47762d; background: #e3f4c5; }
 .difficulty--sedang { color: #82651c; background: #fae8a9; }
 .difficulty--sulit { color: #81516c; background: #f4d2df; }
 
@@ -491,6 +491,12 @@ button:focus-visible {
 .primary-button:hover { filter: brightness(1.04); transform: translateY(-1px); }
 .primary-button:active { transform: translateY(4px) scale(0.98); }
 .question-stage > .primary-button { margin-top: auto; }
+.reveal-button {
+  width: 100%;
+  min-height: 70px;
+  border-radius: 22px;
+  font-size: 1.08rem;
+}
 
 .true-false-actions {
   display: grid;
@@ -517,7 +523,7 @@ button:focus-visible {
 .answer-button:active,
 .score-button:active { transform: translateY(3px) scale(0.98); }
 .answer-button--true,
-.score-button--correct { color: #27634f; background: #bde6d8; box-shadow: 0 6px 0 #84c7b2; }
+.score-button--correct { color: #315f20; background: #cbea98; box-shadow: 0 6px 0 #8ac258; }
 .answer-button--false,
 .score-button--wrong { color: #8b3f4b; background: #f3c4cb; box-shadow: 0 6px 0 #da929e; }
 
@@ -540,7 +546,7 @@ button:focus-visible {
 
 .resolved-actions { display: grid; gap: 13px; margin-top: auto; padding-top: 18px; }
 .feedback-line { display: flex; align-items: center; gap: 7px; font-size: 0.9rem; font-weight: 700; }
-.game-screen--correct .feedback-line { color: #2f765e; }
+.game-screen--correct .feedback-line { color: #46782c; }
 .game-screen--wrong .feedback-line { color: #a14452; }
 .navigation-actions { display: grid; grid-template-columns: minmax(104px, 0.72fr) minmax(0, 1.28fr); gap: 10px; }
 .navigation-actions .primary-button { width: 100%; padding-inline: 14px; }

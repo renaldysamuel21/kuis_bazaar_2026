@@ -323,8 +323,8 @@ export function GameApp() {
                 <h2>{currentQuestion.kind === "character" ? currentQuestion.question : currentQuestion.statement}</h2>
 
                 {currentQuestion.kind === "character" && !progress.activeRound.revealed && (
-                  <button className="primary-button" onClick={() => updateProgress(revealAnswer)} type="button">
-                    <BookOpenText size={22} weight="bold" /> Lihat jawaban
+                  <button className="primary-button reveal-button" onClick={() => updateProgress(revealAnswer)} type="button">
+                    <BookOpenText size={27} weight="bold" /> Lihat jawaban
                   </button>
                 )}
 
