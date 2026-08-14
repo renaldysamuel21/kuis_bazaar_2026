@@ -1,0 +1,32 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next
+/out
+
+# production and test output
+/build
+/coverage
+/.artifacts
+
+# local files
+.DS_Store
+Thumbs.db
+*.log
+*.docx
+*.pdf
+~$*
+__pycache__/
+revise_bazaar_questions.py
+
+# environment files
+.env*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel

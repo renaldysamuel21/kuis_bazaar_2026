@@ -1,0 +1,1207 @@
+{
+  "characterQuestions": [
+    {
+      "id": "character-mudah-01",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "question": "Aku membangun bahtera untuk menyelamatkan keluargaku dan berbagai jenis hewan dari air bah. Siapakah aku?",
+      "answer": "Nuh",
+      "explanation": "Tuhan memerintahkan Nuh membuat bahtera karena air bah akan datang.",
+      "verse": "Kejadian 6:13–22"
+    },
+    {
+      "id": "character-mudah-02",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku membelah Laut Merah dan memimpin bangsa Israel keluar dari Mesir. Siapakah aku?",
+      "answer": "Musa",
+      "explanation": "Tuhan memakai Musa untuk membawa bangsa Israel keluar dari Mesir dan menerima hukum Tuhan.",
+      "verse": "Keluaran 14:15–22; 20:1–17"
+    },
+    {
+      "id": "character-mudah-03",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku mengalahkan Goliat menggunakan umban dan sebuah batu. Siapakah aku?",
+      "answer": "Daud",
+      "explanation": "Daud mengambil lima batu licin dan mengalahkan Goliat dengan satu batu dari umbannya.",
+      "verse": "1 Samuel 17:40, 49–50"
+    },
+    {
+      "id": "character-mudah-04",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku tetap berdoa tiga kali sehari dan dimasukkan ke dalam gua singa. Siapakah aku?",
+      "answer": "Daniel",
+      "explanation": "Daniel tetap setia berdoa dan Tuhan menutup mulut singa-singa.",
+      "verse": "Daniel 6:10, 16–23"
+    },
+    {
+      "id": "character-mudah-05",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "question": "Aku menerima jubah berwarna-warni dan dijual ke Mesir oleh saudara-saudaraku. Siapakah aku?",
+      "answer": "Yusuf",
+      "explanation": "Yusuf dibenci saudara-saudaranya, dijual ke Mesir, tetapi kemudian menjadi penguasa.",
+      "verse": "Kejadian 37:3, 23–28; 41:39–41"
+    },
+    {
+      "id": "character-mudah-06",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "question": "Aku melarikan diri dari perintah Tuhan ke Niniwe, lalu ditelan ikan besar. Siapakah aku?",
+      "answer": "Yunus",
+      "explanation": "Yunus melarikan diri dari panggilan Tuhan, lalu berada di dalam perut ikan besar.",
+      "verse": "Yunus 1:1–3, 17"
+    },
+    {
+      "id": "character-mudah-07",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "question": "Aku terkenal karena kekuatanku yang luar biasa dan rambutku yang panjang. Siapakah aku?",
+      "answer": "Simson",
+      "explanation": "Simson adalah seorang nazir. Rambutnya yang tidak dipotong menjadi tanda nazarnya kepada Tuhan.",
+      "verse": "Hakim-hakim 13:5; 16:17"
+    },
+    {
+      "id": "character-mudah-08",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku menggantikan Musa dan memimpin bangsa Israel memasuki Tanah Perjanjian. Siapakah aku?",
+      "answer": "Yosua",
+      "explanation": "Yosua dipilih menggantikan Musa dan memimpin Israel menyeberangi Sungai Yordan.",
+      "verse": "Yosua 1:1–9"
+    },
+    {
+      "id": "character-mudah-09",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "question": "Aku seorang ratu yang berani menghadap raja untuk menyelamatkan bangsaku. Siapakah aku?",
+      "answer": "Ester",
+      "explanation": "Ester menjadi ratu Persia dan dipakai Tuhan untuk menyelamatkan orang Yahudi.",
+      "verse": "Ester 2:17; 4:14–16; 7:3–4"
+    },
+    {
+      "id": "character-mudah-10",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "question": "Tuhan memanggilku meninggalkan negeriku dan menjadikanku bapa banyak bangsa. Siapakah aku?",
+      "answer": "Abraham",
+      "explanation": "Abraham menaati panggilan Tuhan dan menjadi teladan iman.",
+      "verse": "Kejadian 12:1–3; 17:5"
+    },
+    {
+      "id": "character-mudah-11",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku disalibkan untuk menyelamatkan manusia dan bangkit pada hari ketiga. Siapakah Aku?",
+      "answer": "Tuhan Yesus",
+      "explanation": "Yesus memberikan nyawa-Nya untuk menebus manusia dari dosa dan bangkit mengalahkan kematian.",
+      "verse": "Yohanes 19:16–30; 20:1–18"
+    },
+    {
+      "id": "character-mudah-12",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku menyangkal Yesus tiga kali, lalu dipulihkan dan menjadi pemberita Injil yang berani. Siapakah aku?",
+      "answer": "Petrus",
+      "explanation": "Yesus memulihkan Petrus dan Roh Kudus mengubahnya menjadi saksi yang berani.",
+      "verse": "Matius 26:69–75; Yohanes 21:15–19; Kisah Para Rasul 2:14"
+    },
+    {
+      "id": "character-mudah-13",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku memanjat pohon ara karena tubuhku pendek dan ingin melihat Yesus. Siapakah aku?",
+      "answer": "Zakheus",
+      "explanation": "Setelah bertemu Yesus, Zakheus bertobat dan mengembalikan uang orang yang pernah ditipunya.",
+      "verse": "Lukas 19:1–10"
+    },
+    {
+      "id": "character-mudah-14",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Dahulu aku bernama Saulus dan menganiaya orang Kristen, tetapi kemudian menjadi pemberita Injil. Siapakah aku?",
+      "answer": "Paulus",
+      "explanation": "Pertemuan dengan Yesus mengubah Saulus menjadi Rasul Paulus.",
+      "verse": "Kisah Para Rasul 9:1–20; 13:9"
+    },
+    {
+      "id": "character-mudah-15",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku adalah murid yang membawa orang-orang untuk menangkap Yesus di taman Getsemani. Siapakah aku?",
+      "answer": "Yudas Iskariot",
+      "explanation": "Yudas mengkhianati Yesus dan menunjukkan tempat Yesus berada.",
+      "verse": "Yohanes 18:2–5"
+    },
+    {
+      "id": "character-mudah-16",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku berkhotbah di padang gurun dan membaptis orang-orang yang bertobat, juga yang membaptis Tuhan Yesus. Siapakah aku?",
+      "answer": "Yohanes Pembaptis",
+      "explanation": "Yohanes mempersiapkan jalan bagi kedatangan Yesus.",
+      "verse": "Matius 3:1–11"
+    },
+    {
+      "id": "character-mudah-17",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku adalah ibu Yesus. Siapakah aku?",
+      "answer": "Maria, ibu Yesus",
+      "explanation": "Maria dipilih Tuhan untuk melahirkan Yesus dan menyaksikan penderitaan-Nya di salib.",
+      "verse": "Lukas 1:30–35; Yohanes 19:25–27"
+    },
+    {
+      "id": "character-mudah-18",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku adalah pengemis buta di dekat Yerikho yang disembuhkan Yesus. Siapakah aku?",
+      "answer": "Bartimeus",
+      "explanation": "Yesus mendengar seruan Bartimeus dan menyembuhkan matanya.",
+      "verse": "Markus 10:46–52"
+    },
+    {
+      "id": "character-mudah-19",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku baru percaya Yesus bangkit setelah melihat bekas luka-Nya. Siapakah aku?",
+      "answer": "Tomas",
+      "explanation": "Yesus menampakkan diri kepada Tomas dan menolongnya percaya.",
+      "verse": "Yohanes 20:24–29"
+    },
+    {
+      "id": "character-mudah-20",
+      "kind": "character",
+      "difficulty": "mudah",
+      "source": "materi",
+      "question": "Aku disimbolkan sebagai api. Aku memenuhi para murid pada hari Pentakosta dan memberi mereka kuasa. Siapakah Aku?",
+      "answer": "Roh Kudus",
+      "explanation": "Roh Kudus datang seperti yang dijanjikan Yesus dan memberi kuasa kepada para murid.",
+      "verse": "Kisah Para Rasul 2:1–4"
+    },
+    {
+      "id": "character-sedang-01",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah raja pertama Israel yang iri kepada Daud dan berusaha membunuh Daud. Siapakah aku?",
+      "answer": "Saul",
+      "explanation": "Saul menjadi iri ketika Daud semakin dikenal dan diberkati Tuhan.",
+      "verse": "1 Samuel 18:7–12; 24:1–7"
+    },
+    {
+      "id": "character-sedang-02",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "tambahan",
+      "question": "Aku adalah anak Raja Saul dan sahabat dekat Daud. Siapakah aku?",
+      "answer": "Yonatan",
+      "explanation": "Yonatan bersahabat dengan Daud dan tetap membantunya meskipun Saul memusuhi Daud.",
+      "verse": "1 Samuel 18:1–4; 20:16–17"
+    },
+    {
+      "id": "character-sedang-03",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku menegur dosa Raja Daud melalui perumpamaan tentang anak domba milik orang miskin karena Raja Daud sudah melakukan pembunuhan berencana. Siapakah aku?",
+      "answer": "Nabi Natan",
+      "explanation": "Tuhan mengutus Natan untuk menegur Daud atas dosanya terhadap Uria dan Batsyeba.",
+      "verse": "2 Samuel 12:1–13"
+    },
+    {
+      "id": "character-sedang-04",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah istri Uria yang kemudian menjadi istri Raja Daud. Siapakah aku?",
+      "answer": "Batsyeba",
+      "explanation": "Keinginan Daud terhadap Batsyeba membawa Daud jatuh ke dalam dosa besar.",
+      "verse": "2 Samuel 11:2–5, 26–27"
+    },
+    {
+      "id": "character-sedang-05",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah tentara setia yang dikirim Daud ke garis depan hingga terbunuh. Siapakah aku?",
+      "answer": "Uria",
+      "explanation": "Daud mengatur kematian Uria untuk menutupi dosanya.",
+      "verse": "2 Samuel 11:14–17"
+    },
+    {
+      "id": "character-sedang-06",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku mengutuk dan melempari Daud dengan batu ketika ia melarikan diri. Siapakah aku?",
+      "answer": "Simei",
+      "explanation": "Daud memilih menahan diri dan menyerahkan pembalasan kepada Tuhan.",
+      "verse": "2 Samuel 16:5–13; 19:18–23"
+    },
+    {
+      "id": "character-sedang-07",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah ibu Musa dan waktu Musa bayi, aku meletakkannya di dalam peti pandan di Sungai Nil. Siapakah aku?",
+      "answer": "Yokhebed",
+      "explanation": "Yokhebed adalah ibu Musa yang berani melindungi anaknya.",
+      "verse": "Keluaran 2:1–3; 6:20"
+    },
+    {
+      "id": "character-sedang-08",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku menemukan bayi Musa di Sungai Nil dan mengangkatnya sebagai anak. Siapakah aku?",
+      "answer": "Putri Firaun",
+      "explanation": "Putri Firaun menyelamatkan Musa dan membesarkannya di istana.",
+      "verse": "Keluaran 2:5–10"
+    },
+    {
+      "id": "character-sedang-09",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku memimpin orang Yahudi membangun kembali Bait Allah di Yerusalem. Siapakah aku?",
+      "answer": "Zerubabel",
+      "explanation": "Zerubabel memimpin pembangunan Bait Allah setelah bangsa Yehuda kembali dari Babel.",
+      "verse": "Ezra 3:8; 5:2; Zakharia 4:9"
+    },
+    {
+      "id": "character-sedang-10",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah raja Persia yang mengizinkan orang Yahudi pulang dan membangun kembali Bait Allah. Siapakah aku?",
+      "answer": "Raja Koresh atau Koresy",
+      "explanation": "Koresh mengeluarkan perintah agar Bait Allah dibangun kembali.",
+      "verse": "Ezra 1:1–4"
+    },
+    {
+      "id": "character-sedang-11",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Namaku berarti ‘anak penghiburan’. Aku membantu Saulus diterima oleh para rasul. Siapakah aku?",
+      "answer": "Barnabas",
+      "explanation": "Barnabas percaya bahwa Tuhan telah mengubah Saulus dan membantunya diterima jemaat.",
+      "verse": "Kisah Para Rasul 4:36–37; 9:26–27"
+    },
+    {
+      "id": "character-sedang-12",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah pemuda yang dibimbing Paulus. Ibuku Eunike dan nenekku Lois. Siapakah aku?",
+      "answer": "Timotius",
+      "explanation": "Timotius menjadi rekan pelayanan Paulus dan pemimpin muda dalam gereja.",
+      "verse": "Kisah Para Rasul 16:1–3; 2 Timotius 1:5"
+    },
+    {
+      "id": "character-sedang-13",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah perwira Romawi yang rajin berdoa. Tuhan mengutus Petrus ke rumahku. Siapakah aku?",
+      "answer": "Kornelius",
+      "explanation": "Kornelius dan keluarganya menerima berita keselamatan serta dipenuhi Roh Kudus.",
+      "verse": "Kisah Para Rasul 10:1–48"
+    },
+    {
+      "id": "character-sedang-14",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku menemani Paulus dan memuji Tuhan bersamanya ketika kami dipenjara di Filipi. Siapakah aku?",
+      "answer": "Silas",
+      "explanation": "Paulus dan Silas memuji Tuhan di penjara sebelum terjadi gempa bumi.",
+      "verse": "Kisah Para Rasul 16:22–26"
+    },
+    {
+      "id": "character-sedang-15",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah saudara Yohanes yang diajak Yesus masuk lebih jauh ke Taman Getsemani. Siapakah aku?",
+      "answer": "Yakobus",
+      "explanation": "Yakobus termasuk tiga murid yang sering diajak Yesus menyaksikan peristiwa khusus.",
+      "verse": "Markus 14:32–34"
+    },
+    {
+      "id": "character-sedang-16",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah saudara Yakobus dan dikenal sebagai murid yang dikasihi Yesus. Siapakah aku?",
+      "answer": "Yohanes",
+      "explanation": "Dari salib, Yesus mempercayakan ibu-Nya kepada murid yang dikasihi-Nya.",
+      "verse": "Yohanes 19:26–27; 21:20"
+    },
+    {
+      "id": "character-sedang-17",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku adalah gubernur Romawi yang menyerahkan Yesus untuk disalibkan. Siapakah aku?",
+      "answer": "Pontius Pilatus",
+      "explanation": "Pilatus mengetahui bahwa Yesus tidak bersalah, tetapi menyerah kepada tekanan orang banyak.",
+      "verse": "Yohanes 18:28–40; 19:4–16"
+    },
+    {
+      "id": "character-sedang-18",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku datang ke kubur Yesus dan menjadi salah satu orang pertama yang mengetahui bahwa Ia bangkit. Siapakah aku?",
+      "answer": "Maria Magdalena",
+      "explanation": "Maria Magdalena menjadi salah satu orang pertama yang mengetahui bahwa Yesus telah bangkit.",
+      "verse": "Yohanes 20:1, 11–18"
+    },
+    {
+      "id": "character-sedang-19",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "materi",
+      "question": "Aku meminta jenazah Yesus kepada Pilatus dan menguburkan-Nya di kubur baru. Siapakah aku?",
+      "answer": "Yusuf dari Arimatea",
+      "explanation": "Yusuf menyediakan kubur baru untuk pemakaman Yesus.",
+      "verse": "Yohanes 19:38–42"
+    },
+    {
+      "id": "character-sedang-20",
+      "kind": "character",
+      "difficulty": "sedang",
+      "source": "tambahan",
+      "question": "Aku dipaksa tentara memikul salib Yesus menuju Golgota. Siapakah aku?",
+      "answer": "Simon dari Kirene",
+      "explanation": "Simon dipaksa membantu membawa salib Yesus.",
+      "verse": "Markus 15:21"
+    },
+    {
+      "id": "character-sulit-01",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Aku adalah imam besar yang bekerja bersama Zerubabel membangun kembali mezbah dan Bait Allah. Siapakah aku?",
+      "answer": "Yesua atau Yeshua bin Yozadak",
+      "explanation": "Yesua membantu Zerubabel memimpin pekerjaan pembangunan rumah Tuhan.",
+      "verse": "Ezra 3:2, 8; 5:2"
+    },
+    {
+      "id": "character-sulit-02",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Aku adalah nabi yang menyuruh bangsa Yehuda melanjutkan pembangunan Bait Allah. Siapakah aku?",
+      "answer": "Nabi Hagai",
+      "explanation": "Hagai menegur bangsa Yehuda karena lebih sibuk membangun rumah sendiri daripada rumah Tuhan.",
+      "verse": "Hagai 1:2–8; Ezra 5:1–2"
+    },
+    {
+      "id": "character-sulit-03",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Aku menyampaikan kepada Zerubabel bahwa pekerjaan Tuhan terjadi bukan dengan kekuatan, melainkan dengan Roh Tuhan. Siapakah aku?",
+      "answer": "Nabi Zakharia",
+      "explanation": "Zakharia menguatkan Zerubabel bahwa pekerjaan Tuhan selesai oleh pertolongan Roh Tuhan.",
+      "verse": "Zakharia 4:6–10"
+    },
+    {
+      "id": "character-sulit-04",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Aku adalah raja yang memerintahkan agar pembangunan Bait Allah tidak diganggu. Siapakah aku?",
+      "answer": "Raja Darius",
+      "explanation": "Darius menegaskan kembali izin pembangunan dan bahkan membantu biayanya.",
+      "verse": "Ezra 6:1–12"
+    },
+    {
+      "id": "character-sulit-05",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Bersama Mesakh dan Abednego, aku menolak menyembah patung emas dan dilemparkan ke dalam perapian. Siapakah aku?",
+      "answer": "Sadrakh",
+      "explanation": "Sadrakh tetap menyembah Allah meskipun diancam dengan perapian.",
+      "verse": "Daniel 3:12–27"
+    },
+    {
+      "id": "character-sulit-06",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Bersama Sadrakh dan Abednego, aku berjalan di dalam perapian tanpa terbakar. Siapakah aku?",
+      "answer": "Mesakh",
+      "explanation": "Tuhan melindungi Mesakh dan kedua temannya dari api.",
+      "verse": "Daniel 3:23–27"
+    },
+    {
+      "id": "character-sulit-07",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Bersama Sadrakh dan Mesakh, aku menolak menyembah patung emas Raja Nebukadnezar. Siapakah aku?",
+      "answer": "Abednego",
+      "explanation": "Abednego memilih taat kepada Allah daripada perintah raja.",
+      "verse": "Daniel 3:16–18"
+    },
+    {
+      "id": "character-sulit-08",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Aku adalah seorang nabi yang bernubuat bahwa bangsa Yehuda akan dibuang selama tujuh puluh tahun. Siapakah aku?",
+      "answer": "Nabi Yeremia",
+      "explanation": "Nubuat Yeremia digenapi ketika bangsa Yahudi diizinkan kembali dari Babel.",
+      "verse": "Yeremia 25:11–12; 29:10"
+    },
+    {
+      "id": "character-sulit-09",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Aku adalah seorang wanita yang menyembunyikan dua pengintai Israel dan memasang tali merah di rumahku. Siapakah aku?",
+      "answer": "Rahab",
+      "explanation": "Rahab menyembunyikan para pengintai dan memberi tanda tali merah pada rumahnya.",
+      "verse": "Yosua 2:1–21; 6:22–25"
+    },
+    {
+      "id": "character-sulit-10",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Aku adalah panglima yang sembuh setelah membenamkan diri tujuh kali di Sungai Yordan. Siapakah aku?",
+      "answer": "Naaman",
+      "explanation": "Naaman menaati perkataan Elisa dan menjadi sembuh.",
+      "verse": "2 Raja-raja 5:1, 10–14"
+    },
+    {
+      "id": "character-sulit-11",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Aku menemui Yesus pada malam hari dan membawa rempah-rempah untuk penguburan-Nya. Siapakah aku?",
+      "answer": "Nikodemus",
+      "explanation": "Nikodemus membantu Yusuf dari Arimatea mempersiapkan jenazah Yesus.",
+      "verse": "Yohanes 3:1–2; 19:39–40"
+    },
+    {
+      "id": "character-sulit-12",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "materi",
+      "question": "Aku adalah imam besar yang terlibat dalam pemeriksaan dan rencana membunuh Yesus. Siapakah aku?",
+      "answer": "Kayafas",
+      "explanation": "Kayafas adalah imam besar yang terlibat dalam pemeriksaan dan rencana membunuh Yesus.",
+      "verse": "Yohanes 11:49–53; 18:13–14, 24"
+    },
+    {
+      "id": "character-sulit-13",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Tuhan menyuruhku menemui Saulus yang buta dan menumpangkan tangan kepadanya. Siapakah aku?",
+      "answer": "Ananias",
+      "explanation": "Ananias menaati Tuhan, mendoakan Saulus, dan penglihatan Saulus dipulihkan.",
+      "verse": "Kisah Para Rasul 9:10–18"
+    },
+    {
+      "id": "character-sulit-14",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Aku menjadi saksi Yesus pertama yang mati karena dilempari batu. Siapakah aku?",
+      "answer": "Stefanus",
+      "explanation": "Stefanus tetap bersaksi tentang Yesus meskipun dilempari batu.",
+      "verse": "Kisah Para Rasul 6:5, 8; 7:54–60"
+    },
+    {
+      "id": "character-sulit-15",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Aku menjelaskan kitab Yesaya kepada seorang pejabat Etiopia dan membaptisnya. Siapakah aku?",
+      "answer": "Filipus",
+      "explanation": "Filipus menjelaskan kitab Yesaya kepada pejabat itu dan membaptisnya.",
+      "verse": "Kisah Para Rasul 8:5–8, 26–40"
+    },
+    {
+      "id": "character-sulit-16",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Aku adalah penjual kain ungu dari Tiatira yang membuka rumahku bagi para pelayan Tuhan. Siapakah aku?",
+      "answer": "Lidia",
+      "explanation": "Lidia percaya kepada Tuhan dan membuka rumahnya bagi para pelayan Tuhan.",
+      "verse": "Kisah Para Rasul 16:14–15"
+    },
+    {
+      "id": "character-sulit-17",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Bersama suamiku, Akwila, aku menjelaskan jalan Allah kepada Apolos. Siapakah aku?",
+      "answer": "Priskila",
+      "explanation": "Priskila dan Akwila menolong Apolos memahami pengajaran tentang Yesus dengan lebih lengkap.",
+      "verse": "Kisah Para Rasul 18:24–26"
+    },
+    {
+      "id": "character-sulit-18",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Aku adalah suami Priskila, pembuat kemah, dan rekan pelayanan Paulus. Siapakah aku?",
+      "answer": "Akwila",
+      "explanation": "Akwila dan Priskila menjadi rekan kerja serta rekan pelayanan Paulus.",
+      "verse": "Kisah Para Rasul 18:1–3, 18"
+    },
+    {
+      "id": "character-sulit-19",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Aku pandai berbicara dan memahami Kitab Suci, lalu belajar lebih lengkap dari Priskila dan Akwila. Siapakah aku?",
+      "answer": "Apolos",
+      "explanation": "Setelah diajar lebih lengkap, Apolos melayani dengan berani dan menolong banyak orang percaya.",
+      "verse": "Kisah Para Rasul 18:24–28"
+    },
+    {
+      "id": "character-sulit-20",
+      "kind": "character",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "question": "Aku tinggal di Betania dan dibangkitkan Yesus setelah meninggal selama empat hari. Siapakah aku?",
+      "answer": "Lazarus",
+      "explanation": "Yesus membangkitkan Lazarus setelah ia meninggal selama empat hari.",
+      "verse": "Yohanes 11:1–44"
+    }
+  ],
+  "trueFalseQuestions": [
+    {
+      "id": "true-false-mudah-01",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Yesus tidak bersalah, tetapi tetap disalibkan untuk menebus manusia dari dosa.",
+      "answer": true,
+      "verse": "Yohanes 18:38; 19:16–30",
+      "explanation": "Yesus menyerahkan nyawa-Nya sebagai korban keselamatan bagi manusia."
+    },
+    {
+      "id": "true-false-mudah-02",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Yesus bangkit pada hari ketiga setelah kematian-Nya.",
+      "answer": true,
+      "verse": "Yohanes 20:1–10; 1 Korintus 15:3–4",
+      "explanation": "Para murid menemukan kubur Yesus kosong karena Ia telah bangkit."
+    },
+    {
+      "id": "true-false-mudah-03",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Zakheus memanjat pohon karena tubuhnya pendek dan ia ingin melihat Yesus.",
+      "answer": true,
+      "verse": "Lukas 19:3–4",
+      "explanation": "Kerumunan menghalangi pandangannya, sehingga ia memanjat pohon ara."
+    },
+    {
+      "id": "true-false-mudah-04",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Daniel dimasukkan ke dalam gua singa karena tetap berdoa kepada Tuhan.",
+      "answer": true,
+      "verse": "Daniel 6:10, 16",
+      "explanation": "Daniel tidak menghentikan kebiasaan doanya meskipun ada larangan raja."
+    },
+    {
+      "id": "true-false-mudah-05",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Yosua dipilih Tuhan untuk memimpin Israel setelah Musa meninggal.",
+      "answer": true,
+      "verse": "Yosua 1:1–6",
+      "explanation": "Tuhan memerintahkan Yosua membawa Israel memasuki Tanah Perjanjian."
+    },
+    {
+      "id": "true-false-mudah-06",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Nuh membangun bahtera sesuai dengan perintah Tuhan.",
+      "answer": true,
+      "verse": "Kejadian 6:14–22",
+      "explanation": "Nuh melakukan semua yang diperintahkan Tuhan kepadanya."
+    },
+    {
+      "id": "true-false-mudah-07",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Yunus pernah berada di dalam perut ikan besar.",
+      "answer": true,
+      "verse": "Yunus 1:17",
+      "explanation": "Tuhan menyediakan ikan besar untuk menelan Yunus."
+    },
+    {
+      "id": "true-false-mudah-08",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Yusuf menerima jubah yang indah dari ayahnya, Yakub.",
+      "answer": true,
+      "verse": "Kejadian 37:3",
+      "explanation": "Yakub sangat mengasihi Yusuf dan memberinya jubah yang istimewa."
+    },
+    {
+      "id": "true-false-mudah-09",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Musa menerima Sepuluh Perintah Allah.",
+      "answer": true,
+      "verse": "Keluaran 20:1–17; 31:18",
+      "explanation": "Tuhan memberikan hukum-Nya kepada Israel melalui Musa."
+    },
+    {
+      "id": "true-false-mudah-10",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Yesus dilahirkan di Betlehem.",
+      "answer": true,
+      "verse": "Lukas 2:4–7",
+      "explanation": "Maria melahirkan Yesus ketika Yusuf dan Maria berada di Betlehem."
+    },
+    {
+      "id": "true-false-mudah-11",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Daniel dihukum dengan dimasukkan ke dalam gua ular.",
+      "answer": false,
+      "verse": "Daniel 6:16–23",
+      "correction": "Daniel dimasukkan ke dalam gua singa.",
+      "explanation": "Tuhan mengutus malaikat untuk menutup mulut singa-singa."
+    },
+    {
+      "id": "true-false-mudah-12",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Zakheus dapat melihat Yesus dengan mudah karena tubuhnya sangat tinggi.",
+      "answer": false,
+      "verse": "Lukas 19:3–4",
+      "correction": "Zakheus bertubuh pendek dan harus memanjat pohon."
+    },
+    {
+      "id": "true-false-mudah-13",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Setelah disalibkan, Yesus tetap berada di dalam kubur dan tidak bangkit.",
+      "answer": false,
+      "verse": "Yohanes 20:1–18",
+      "correction": "Yesus bangkit pada hari ketiga dan kubur-Nya ditemukan kosong."
+    },
+    {
+      "id": "true-false-mudah-14",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Daud mengalahkan Goliat dengan pedang yang dibawanya sendiri.",
+      "answer": false,
+      "verse": "1 Samuel 17:40, 49–50",
+      "correction": "Daud menjatuhkan Goliat dengan umban dan batu. Ia tidak membawa pedang sendiri."
+    },
+    {
+      "id": "true-false-mudah-15",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "materi",
+      "statement": "Setelah Yosua meninggal, Musa menggantikannya sebagai pemimpin Israel.",
+      "answer": false,
+      "verse": "Yosua 1:1–2",
+      "correction": "Yosua menggantikan Musa setelah Musa meninggal."
+    },
+    {
+      "id": "true-false-mudah-16",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Nuh adalah orang yang membangun Menara Babel.",
+      "answer": false,
+      "verse": "Kejadian 6:14; 11:1–9",
+      "correction": "Nuh membangun bahtera. Menara Babel dibangun oleh manusia beberapa generasi kemudian."
+    },
+    {
+      "id": "true-false-mudah-17",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Yunus langsung pergi ke Niniwe ketika pertama kali Tuhan memanggilnya.",
+      "answer": false,
+      "verse": "Yunus 1:1–3",
+      "correction": "Yunus mula-mula melarikan diri menuju Tarsis."
+    },
+    {
+      "id": "true-false-mudah-18",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Kekuatan Simson tersimpan di dalam sandalnya.",
+      "answer": false,
+      "verse": "Hakim-hakim 13:5; 16:17–20",
+      "correction": "Tuhan memberikan kekuatan kepada Simson. Rambut yang tidak dipotong merupakan tanda nazarnya."
+    },
+    {
+      "id": "true-false-mudah-19",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Maria, ibu Yesus, adalah ibu Yohanes Pembaptis.",
+      "answer": false,
+      "verse": "Lukas 1:13, 57–60",
+      "correction": "Ibu Yohanes Pembaptis bernama Elisabet."
+    },
+    {
+      "id": "true-false-mudah-20",
+      "kind": "true-false",
+      "difficulty": "mudah",
+      "source": "tambahan",
+      "statement": "Sebelum menjadi murid Yesus, Petrus bekerja sebagai pemungut cukai.",
+      "answer": false,
+      "verse": "Matius 4:18–20; 9:9",
+      "correction": "Petrus bekerja sebagai nelayan. Matius adalah murid yang pernah menjadi pemungut cukai."
+    },
+    {
+      "id": "true-false-sedang-01",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Daud memperoleh kesempatan membunuh Saul di dalam gua, tetapi ia tidak melakukannya.",
+      "answer": true,
+      "verse": "1 Samuel 24:4–8",
+      "explanation": "Daud hanya memotong ujung jubah Saul dan menolak membalas kejahatan."
+    },
+    {
+      "id": "true-false-sedang-02",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Daud mengakui dosanya setelah ditegur Nabi Natan.",
+      "answer": true,
+      "verse": "2 Samuel 12:7–13",
+      "explanation": "Daud berkata kepada Natan bahwa ia telah berdosa kepada Tuhan."
+    },
+    {
+      "id": "true-false-sedang-03",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Daniel mempunyai kebiasaan berdoa tiga kali sehari.",
+      "answer": true,
+      "verse": "Daniel 6:10",
+      "explanation": "Daniel tetap berdoa seperti yang biasa dilakukannya sebelumnya."
+    },
+    {
+      "id": "true-false-sedang-04",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Yokhebed meletakkan bayi Musa di dalam peti pandan di tepi Sungai Nil.",
+      "answer": true,
+      "verse": "Keluaran 2:1–3",
+      "explanation": "Ia melakukan itu untuk menyelamatkan Musa dari perintah pembunuhan bayi laki-laki."
+    },
+    {
+      "id": "true-false-sedang-05",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Raja Koresh mengizinkan bangsa Yahudi pulang dan membangun kembali Bait Allah.",
+      "answer": true,
+      "verse": "Ezra 1:1–4",
+      "explanation": "Tuhan menggerakkan hati Koresh untuk mengeluarkan perintah tersebut."
+    },
+    {
+      "id": "true-false-sedang-06",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Zerubabel ikut memimpin pembangunan kembali Bait Allah di Yerusalem.",
+      "answer": true,
+      "verse": "Ezra 3:8; 5:2",
+      "explanation": "Zerubabel bekerja bersama Yesua dan para pemimpin bangsa Yehuda."
+    },
+    {
+      "id": "true-false-sedang-07",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Barnabas membantu Saulus diterima oleh para rasul di Yerusalem.",
+      "answer": true,
+      "verse": "Kisah Para Rasul 9:26–27",
+      "explanation": "Barnabas menjelaskan kepada para rasul bahwa Saulus telah bertemu Tuhan dan memberitakan Injil."
+    },
+    {
+      "id": "true-false-sedang-08",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Kornelius adalah seorang perwira Romawi yang takut akan Allah.",
+      "answer": true,
+      "verse": "Kisah Para Rasul 10:1–2",
+      "explanation": "Kornelius rajin berdoa dan banyak memberi kepada orang miskin."
+    },
+    {
+      "id": "true-false-sedang-09",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Petrus menyangkal bahwa ia mengenal Yesus sebanyak tiga kali.",
+      "answer": true,
+      "verse": "Matius 26:69–75",
+      "explanation": "Setelah penyangkalan ketiga, ayam berkokok dan Petrus menangis."
+    },
+    {
+      "id": "true-false-sedang-10",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "tambahan",
+      "statement": "Rut menjadi nenek buyut Raja Daud.",
+      "answer": true,
+      "verse": "Rut 4:13, 17, 21–22",
+      "explanation": "Rut melahirkan Obed, Obed memperanakkan Isai, dan Isai adalah ayah Daud."
+    },
+    {
+      "id": "true-false-sedang-11",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Daud membunuh Saul ketika Saul masuk ke dalam gua.",
+      "answer": false,
+      "verse": "1 Samuel 24:4–8",
+      "correction": "Daud membiarkan Saul tetap hidup dan hanya memotong ujung jubahnya."
+    },
+    {
+      "id": "true-false-sedang-12",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Daniel berhenti berdoa setelah mengetahui ada larangan dari raja.",
+      "answer": false,
+      "verse": "Daniel 6:10",
+      "correction": "Daniel tetap berdoa tiga kali sehari seperti biasanya."
+    },
+    {
+      "id": "true-false-sedang-13",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Yokhebed melemparkan Musa langsung ke laut tanpa menggunakan peti.",
+      "answer": false,
+      "verse": "Keluaran 2:3",
+      "correction": "Yokhebed membuat peti pandan, melapisinya, lalu meletakkan Musa di antara teberau Sungai Nil."
+    },
+    {
+      "id": "true-false-sedang-14",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Zerubabel memimpin pembangunan istana besar untuk dirinya sendiri.",
+      "answer": false,
+      "verse": "Ezra 3:8; 5:2",
+      "correction": "Zerubabel memimpin pembangunan kembali Bait Allah."
+    },
+    {
+      "id": "true-false-sedang-15",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Barnabas menolak Saulus karena takut pada masa lalunya.",
+      "answer": false,
+      "verse": "Kisah Para Rasul 9:26–27",
+      "correction": "Barnabas menerima Saulus dan membawanya kepada para rasul."
+    },
+    {
+      "id": "true-false-sedang-16",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Kornelius adalah seorang imam Yahudi yang bertugas di Bait Allah.",
+      "answer": false,
+      "verse": "Kisah Para Rasul 10:1–2",
+      "correction": "Kornelius adalah seorang perwira Romawi dari pasukan Italia."
+    },
+    {
+      "id": "true-false-sedang-17",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Petrus menyangkal Yesus hanya satu kali.",
+      "answer": false,
+      "verse": "Matius 26:69–75",
+      "correction": "Petrus menyangkal Yesus sebanyak tiga kali."
+    },
+    {
+      "id": "true-false-sedang-18",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "materi",
+      "statement": "Paulus bertemu seratus dua puluh murid di Efesus yang belum pernah mendengar tentang Roh Kudus.",
+      "answer": false,
+      "verse": "Kisah Para Rasul 19:1–7",
+      "correction": "Jumlah mereka kira-kira dua belas orang."
+    },
+    {
+      "id": "true-false-sedang-19",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "tambahan",
+      "statement": "Rut adalah saudara perempuan Ratu Ester.",
+      "answer": false,
+      "verse": "Rut 1:1–4; Ester 2:5–7",
+      "correction": "Rut dan Ester hidup pada zaman yang berbeda dan bukan saudara."
+    },
+    {
+      "id": "true-false-sedang-20",
+      "kind": "true-false",
+      "difficulty": "sedang",
+      "source": "tambahan",
+      "statement": "Nabi Elia adalah orang yang mengalahkan Goliat.",
+      "answer": false,
+      "verse": "1 Samuel 17:45–50",
+      "correction": "Daudlah yang mengalahkan Goliat."
+    },
+    {
+      "id": "true-false-sulit-01",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Raja Darius memerintahkan pencarian arsip untuk memastikan izin pembangunan Bait Allah.",
+      "answer": true,
+      "verse": "Ezra 6:1–5",
+      "explanation": "Surat perintah Raja Koresh akhirnya ditemukan di dalam arsip kerajaan."
+    },
+    {
+      "id": "true-false-sulit-02",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Sadrakh, Mesakh, dan Abednego tetap hidup meskipun dilemparkan ke dalam perapian.",
+      "answer": true,
+      "verse": "Daniel 3:23–27",
+      "explanation": "Tuhan melindungi mereka sehingga tubuh dan pakaian mereka tidak terbakar."
+    },
+    {
+      "id": "true-false-sulit-03",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Dalam peristiwa pembasuhan kaki, Yudas masih berada bersama murid-murid sebelum kemudian pergi untuk mengkhianati Yesus.",
+      "answer": true,
+      "verse": "Yohanes 13:2–5, 21–30",
+      "explanation": "Yohanes 13 menempatkan pembasuhan kaki sebelum Yudas keluar pada malam itu."
+    },
+    {
+      "id": "true-false-sulit-04",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Paulus mengajar setiap hari di ruang kuliah Tiranus selama dua tahun.",
+      "answer": true,
+      "verse": "Kisah Para Rasul 19:9–10",
+      "explanation": "Melalui pelayanan itu, penduduk Asia mendengar firman Tuhan."
+    },
+    {
+      "id": "true-false-sulit-05",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Roh Kudus turun atas Kornelius dan keluarganya ketika Petrus masih berbicara.",
+      "answer": true,
+      "verse": "Kisah Para Rasul 10:44–46",
+      "explanation": "Mereka kemudian berkata-kata dalam bahasa roh dan memuliakan Allah."
+    },
+    {
+      "id": "true-false-sulit-06",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Pada hari Pentakosta, para murid mulai berbicara dalam bahasa-bahasa lain.",
+      "answer": true,
+      "verse": "Kisah Para Rasul 2:1–4",
+      "explanation": "Kemampuan itu diberikan oleh Roh Kudus kepada mereka."
+    },
+    {
+      "id": "true-false-sulit-07",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Tuhan menyuruh Yosua merenungkan kitab Taurat siang dan malam.",
+      "answer": true,
+      "verse": "Yosua 1:8",
+      "explanation": "Yosua harus menaati firman Tuhan agar bertindak bijaksana."
+    },
+    {
+      "id": "true-false-sulit-08",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "statement": "Tuhan memakai burung-burung gagak untuk membawa makanan kepada Nabi Elia.",
+      "answer": true,
+      "verse": "1 Raja-raja 17:4–6",
+      "explanation": "Burung gagak membawa roti dan daging kepada Elia pada pagi dan petang."
+    },
+    {
+      "id": "true-false-sulit-09",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "statement": "Ester menjadi ratu di kerajaan Persia.",
+      "answer": true,
+      "verse": "Ester 2:17",
+      "explanation": "Raja mengasihi Ester dan mengenakan mahkota kerajaan di kepalanya."
+    },
+    {
+      "id": "true-false-sulit-10",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "statement": "Naaman membenamkan dirinya tujuh kali di Sungai Yordan sebelum sembuh.",
+      "answer": true,
+      "verse": "2 Raja-raja 5:10, 14",
+      "explanation": "Naaman menaati perintah Nabi Elisa dan penyakitnya disembuhkan."
+    },
+    {
+      "id": "true-false-sulit-11",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Raja Koresh melarang bangsa Yahudi membangun kembali Bait Allah.",
+      "answer": false,
+      "verse": "Ezra 1:1–4",
+      "correction": "Koresh justru mengizinkan dan memerintahkan pembangunan kembali Bait Allah."
+    },
+    {
+      "id": "true-false-sulit-12",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Raja Darius memerintahkan Tatnai menghentikan pembangunan Bait Allah.",
+      "answer": false,
+      "verse": "Ezra 6:6–12",
+      "correction": "Darius menyuruh Tatnai tidak mengganggu pembangunan dan membantu pembiayaannya."
+    },
+    {
+      "id": "true-false-sulit-13",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Roh Kudus hanya diberikan kepada orang Yahudi dan tidak pernah kepada bangsa lain.",
+      "answer": false,
+      "verse": "Kisah Para Rasul 10:44–48",
+      "correction": "Roh Kudus juga turun atas Kornelius dan keluarganya yang bukan orang Yahudi."
+    },
+    {
+      "id": "true-false-sulit-14",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Yesus hanya membasuh kaki Petrus dan tidak membasuh kaki murid-murid lainnya.",
+      "answer": false,
+      "verse": "Yohanes 13:4–15",
+      "correction": "Yesus membasuh kaki para murid dan memberikan teladan agar mereka saling melayani."
+    },
+    {
+      "id": "true-false-sulit-15",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Yudas Iskariot tetap setia kepada Yesus dan tidak pernah mengkhianati-Nya.",
+      "answer": false,
+      "verse": "Yohanes 18:2–5",
+      "correction": "Yudas menunjukkan lokasi Yesus kepada orang-orang yang datang untuk menangkap-Nya."
+    },
+    {
+      "id": "true-false-sulit-16",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Hari Pentakosta terjadi tiga hari setelah Yesus naik ke surga.",
+      "answer": false,
+      "verse": "Kisah Para Rasul 1:3, 9; 2:1",
+      "correction": "Yesus menampakkan diri selama empat puluh hari setelah kebangkitan. Pentakosta terjadi pada hari kelima puluh setelah Paskah, sekitar sepuluh hari setelah kenaikan-Nya."
+    },
+    {
+      "id": "true-false-sulit-17",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Tuhan menyuruh Yosua mengabaikan kitab Taurat dan hanya mengandalkan kekuatannya sendiri.",
+      "answer": false,
+      "verse": "Yosua 1:7–8",
+      "correction": "Yosua harus merenungkan dan menaati firman Tuhan siang dan malam."
+    },
+    {
+      "id": "true-false-sulit-18",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "materi",
+      "statement": "Maria Magdalena datang ke kubur dan menemukan jenazah Yesus masih berada di dalamnya.",
+      "answer": false,
+      "verse": "Yohanes 20:1–2, 11–18",
+      "correction": "Maria menemukan batu telah dipindahkan dan kubur Yesus kosong."
+    },
+    {
+      "id": "true-false-sulit-19",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "statement": "Naaman membenamkan dirinya tiga kali di Sungai Yordan.",
+      "answer": false,
+      "verse": "2 Raja-raja 5:10, 14",
+      "correction": "Naaman membenamkan dirinya tujuh kali."
+    },
+    {
+      "id": "true-false-sulit-20",
+      "kind": "true-false",
+      "difficulty": "sulit",
+      "source": "tambahan",
+      "statement": "Raja Salomo adalah orang yang membangun bahtera sebelum air bah.",
+      "answer": false,
+      "verse": "Kejadian 6:13–22; 1 Raja-raja 6:1, 14",
+      "correction": "Nuh membangun bahtera. Salomo membangun Bait Allah di Yerusalem."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "kuis-bazaar-2026",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node scripts/generate-sw.mjs",
+    "start": "node scripts/serve.mjs",
+    "lint": "eslint .",
+    "test": "node --experimental-strip-types tests/quiz-engine.test.ts",
+    "test:visual": "node scripts/visual-check.mjs",
+    "extract:questions": "python scripts/extract_questions.py"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "2.1.10",
+    "canvas-confetti": "1.9.4",
+    "framer-motion": "13.1.0",
+    "next": "16.3.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/canvas-confetti": "1.9.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.4",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "16.3.1",
+    "postcss": "8.5.26",
+    "playwright-core": "1.62.1",
+    "tailwindcss": "4.3.3",
+    "typescript": "6.0.3"
+  }
+}
