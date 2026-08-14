@@ -7,6 +7,7 @@ import {
   createProgress,
   resolveAnswer,
   startRound,
+  undoAnswer,
 } from "../src/lib/quiz-engine.ts";
 import type { Difficulty, QuizQuestion } from "../src/types/quiz.ts";
 
@@ -76,4 +77,20 @@ test("2-3 jawaban benar mendapat 10 poin", () => {
   progress = advanceQuestion(progress);
   assert.equal(progress.result?.correctCount, 2);
   assert.equal(progress.result?.points, 10);
+});
+
+test("jawaban terakhir dapat dibatalkan dan dinilai ulang", () => {
+  let progress = startRound(createProgress(makeQuestions(1)));
+  progress = resolveAnswer(progress, true, true);
+  assert.equal(progress.activeRound?.correctCount, 1);
+
+  progress = undoAnswer(progress, true, true);
+  assert.equal(progress.activeRound?.correctCount, 0);
+  assert.equal(progress.activeRound?.resolved, false);
+  assert.equal(progress.activeRound?.revealed, true);
+  assert.equal(progress.activeRound?.selectedAnswer, undefined);
+
+  progress = resolveAnswer(progress, false, false);
+  assert.equal(progress.activeRound?.correctCount, 0);
+  assert.equal(progress.activeRound?.resolved, true);
 });

@@ -102,6 +102,26 @@ export function resolveAnswer(
   };
 }
 
+export function undoAnswer(
+  progress: GameProgress,
+  wasCorrect: boolean,
+  keepAnswerVisible = false,
+): GameProgress {
+  const round = progress.activeRound;
+  if (!round?.resolved) return progress;
+
+  return {
+    ...progress,
+    activeRound: {
+      ...round,
+      correctCount: Math.max(0, round.correctCount - (wasCorrect ? 1 : 0)),
+      revealed: keepAnswerVisible,
+      resolved: false,
+      selectedAnswer: undefined,
+    },
+  };
+}
+
 export function advanceQuestion(progress: GameProgress): GameProgress {
   const round = progress.activeRound;
   if (!round?.resolved) return progress;

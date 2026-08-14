@@ -1,6 +1,7 @@
 "use client";
 
 import {
+  ArrowCounterClockwise,
   ArrowRight,
   BookOpenText,
   Check,
@@ -26,6 +27,7 @@ import {
   resolveAnswer,
   revealAnswer,
   startRound,
+  undoAnswer,
 } from "@/lib/quiz-engine";
 import type {
   CharacterQuestion,
@@ -101,7 +103,7 @@ function ResultCelebration({ points }: { points: 5 | 10 }) {
       if (cancelled) return;
       const confetti = (module as unknown as { default: typeof confettiFunction }).default;
       confettiRef.current = confetti;
-      const colors = ["#f56f9a", "#ffd76a", "#77cfb7", "#9b8de3", "#ffffff"];
+      const colors = ["#e88845", "#ffd76a", "#77cfb7", "#d06f36", "#ffffff"];
       if (points === 10) {
         confetti({ particleCount: 90, spread: 75, origin: { y: 0.58 }, colors });
         timers.push(
@@ -201,6 +203,16 @@ export function GameApp() {
     if (finishingRound) setScreen("result");
   };
 
+  const handleUndo = () => {
+    if (!currentQuestion || !progress?.activeRound?.resolved) return;
+    const wasCorrect =
+      progress.activeRound.selectedAnswer ===
+      (currentQuestion.kind === "true-false" ? currentQuestion.answer : true);
+    updateProgress((current) =>
+      undoAnswer(current, wasCorrect, currentQuestion.kind === "character"),
+    );
+  };
+
   const handleContinue = () => {
     if (!progress) return;
     if (progress.completed) {
@@ -275,7 +287,6 @@ export function GameApp() {
                 <div className="speech-bubble">Tiga soal, satu ronde!</div>
                 <Mascot mood="ready" />
               </div>
-              <p className="offline-note"><Check size={15} weight="bold" /> Soal tersimpan di perangkat</p>
             </motion.section>
           )}
 
@@ -299,7 +310,6 @@ export function GameApp() {
                   <House size={23} weight="fill" />
                 </button>
                 <div>
-                  <p>Ronde {progress.cursor + 1} dari 20</p>
                   <strong>{modeCopy[mode].short}</strong>
                 </div>
                 <DifficultyDots activeIndex={progress.activeRound.questionIndex} />
@@ -377,10 +387,15 @@ export function GameApp() {
                         <><XCircle size={23} weight="fill" /> Jawaban salah</>
                       )}
                     </div>
-                    <button className="primary-button" onClick={handleNext} type="button">
-                      {progress.activeRound.questionIndex === 2 ? "Lihat hasil ronde" : "Soal berikutnya"}
-                      <ArrowRight size={22} weight="bold" />
-                    </button>
+                    <div className="navigation-actions">
+                      <button className="back-button" onClick={handleUndo} type="button">
+                        <ArrowCounterClockwise size={21} weight="bold" /> Kembali
+                      </button>
+                      <button className="primary-button" onClick={handleNext} type="button">
+                        {progress.activeRound.questionIndex === 2 ? "Lihat hasil ronde" : "Soal berikutnya"}
+                        <ArrowRight size={22} weight="bold" />
+                      </button>
+                    </div>
                   </div>
                 )}
               </div>
@@ -403,7 +418,7 @@ export function GameApp() {
               </button>
               <div className="result-stars" aria-hidden="true"><Star weight="fill" /><Star weight="fill" /><Star weight="fill" /></div>
               <Mascot mood={progress.result.points === 10 ? "proud" : "happy"} />
-              <p className="eyebrow"><Medal size={17} weight="fill" /> Ronde {progress.result.roundNumber} selesai</p>
+              <p className="eyebrow"><Medal size={17} weight="fill" /> Tiga soal selesai</p>
               <h2>{progress.result.points === 10 ? "Hebat sekali!" : "Tetap semangat!"}</h2>
               <p className="result-summary">Benar {progress.result.correctCount} dari 3 soal</p>
               <div className="points-pill"><strong>{progress.result.points}</strong><span>poin</span></div>

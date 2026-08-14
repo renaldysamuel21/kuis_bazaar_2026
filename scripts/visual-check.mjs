@@ -74,6 +74,7 @@ try {
     await page.screenshot({ path: path.join(screenshots, `${viewport.name}-home.png`), fullPage: true });
     await page.getByRole("button", { name: /Tebak Tokoh/ }).click();
     await page.getByRole("heading", { level: 2 }).waitFor();
+    assert.equal(await page.getByText(/^Ronde \d/).count(), 0, `${viewport.name} tidak menampilkan nomor ronde`);
     await page.waitForTimeout(300);
     await page.screenshot({ path: path.join(screenshots, `${viewport.name}-question.png`), fullPage: true });
     await context.close();
@@ -82,10 +83,16 @@ try {
   const context = await browser.newContext({ viewport: { width: 390, height: 844 } });
   const page = await context.newPage();
   await page.goto("http://127.0.0.1:4173", { waitUntil: "networkidle" });
+  assert.equal(await page.getByText("Soal tersimpan di perangkat").count(), 0);
   await page.getByRole("button", { name: /Tebak Tokoh/ }).click();
   for (let index = 0; index < 3; index += 1) {
     await page.getByRole("button", { name: "Lihat jawaban" }).click();
     await page.getByRole("button", { name: "Benar", exact: true }).click();
+    if (index === 0) {
+      await page.getByRole("button", { name: "Kembali", exact: true }).click();
+      await page.getByText("Jawaban anak tadi:").waitFor();
+      await page.getByRole("button", { name: "Benar", exact: true }).click();
+    }
     await page.getByRole("button", { name: index === 2 ? "Lihat hasil ronde" : "Soal berikutnya" }).click();
   }
   await page.getByText("10", { exact: true }).waitFor();
@@ -98,6 +105,10 @@ try {
   const data = JSON.parse(await readFile(path.join(root, "src", "data", "questions.json"), "utf8"));
   const question = data.trueFalseQuestions.find((item) => item.statement === statement);
   assert.ok(question, "Pernyataan Benar/Salah ditemukan di bank soal");
+  await page.getByRole("button", { name: question.answer ? "Salah" : "Benar", exact: true }).click();
+  await page.locator(".game-screen--wrong").waitFor();
+  await page.getByRole("button", { name: "Kembali", exact: true }).click();
+  await page.locator(".game-screen--wrong").waitFor({ state: "detached" });
   await page.getByRole("button", { name: question.answer ? "Salah" : "Benar", exact: true }).click();
   await page.locator(".game-screen--wrong").waitFor();
   await page.waitForTimeout(300);
